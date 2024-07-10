@@ -43,3 +43,5 @@ actual_value = driver.find_element(By.XPATH,"//div[text()='"+fruit_name+"']/pare
 assert actual_value == "1000"
 time.sleep(3)
 
+
+#checking the git push1
